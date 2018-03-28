@@ -96,7 +96,7 @@ public class setting extends AppCompatActivity {
                         break;
                 }
                 warna.setText(getShapeColor(idwarna));
-                sp.putInt("Colourground", idwarna);
+                sp.putInt("keyC", idwarna);
                 sp.commit();
             }
         });

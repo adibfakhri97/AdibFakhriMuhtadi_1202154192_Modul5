@@ -17,28 +17,28 @@
             android:layout_height="wrap_content">
 
             <RadioButton
-                android:buttonTint="@color/colorPrimary"
+                android:buttonTint="@android:color/holo_blue_dark"
                 android:id="@+id/putih"
                 android:text="Default"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content" />
 
             <RadioButton
-                android:buttonTint="@color/colorPrimary"
+                android:buttonTint="@android:color/holo_blue_dark"
                 android:id="@+id/merah"
                 android:text="Red"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content" />
 
             <RadioButton
-                android:buttonTint="@color/colorPrimary"
+                android:buttonTint="@android:color/holo_blue_dark"
                 android:id="@+id/hijau"
                 android:text="Green"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content" />
 
             <RadioButton
-                android:buttonTint="@color/colorPrimary"
+                android:buttonTint="@android:color/holo_blue_dark"
                 android:id="@+id/biru"
                 android:text="Blue"
                 android:layout_width="match_parent"
